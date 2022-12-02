@@ -17,7 +17,7 @@ extension UTType {
 struct example_gitDocument: FileDocument {
     var text: String
 
-    init(text: String = "Hello, world! TEST TEST") {
+    init(text: String = "Hello, world! TEST TEST222") {
         self.text = text
     }
 
